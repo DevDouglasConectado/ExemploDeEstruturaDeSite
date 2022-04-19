@@ -1,0 +1,14 @@
+
+Static: Valor padrão. Os elementos são renderizados em ordem, conforme aparecem no fluxo de documentos
+
+
+Absolute: O elemento é posicionado em relação ao seu primeiro elemento ancestral posicionado (não estático)
+
+
+fixed: O elemento é posicionado em relação à janela do navegador
+
+
+relative: O elemento é posicionado em relação à sua posição normal, então "esquerda:20px" adiciona 20 pixels à posição ESQUERDA do elemento
+
+Definição e uso
+A position propriedade especifica o tipo de método de posicionamento usado para um elemento (estático, relativo, absoluto, fixo ou fixo).
